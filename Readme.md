@@ -1,0 +1,1 @@
+Just trying to learn python application/web development so as part of my devops career how application work and not just infra related part.
